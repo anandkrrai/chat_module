@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners
+        android:radius="20dp" />
+
+    <solid
+        android:color="@android:color/transparent" />
+
+    <stroke
+        android:color="#FFFFFF"
+        android:width="2dp" />
+
+    <padding android:right="@dimen/activity_horizontal_margin"
+        android:left="@dimen/activity_horizontal_margin"/>
+
+
+
+
+    <!--<size-->
+        <!--android:width="165dp"-->
+        <!--android:height="40dp" />-->
+
+</shape>

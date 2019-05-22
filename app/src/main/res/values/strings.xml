@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="name">Name </string>
+    <string name="search_here">Search here</string>
+    <string name="speak_button_description">This is the description for speak button</string>
+    <string name="content_picker_description">this is content picker button</string>
+    <string name="item_message_content">image for message</string>
+    <string name="enter_the_name_of_the_issue">Enter the topic of the discussion</string>
+    <string name="warning_new_issue">You can not undo this action. Everyone can see that you started this discussion</string>
+    <string name="new_discussion">New Discussion</string>
+    <string name="start_issue">Start Discussion</string>
+    <string name="send_button_label">Send</string>
+    <string name="start_a_new_issue">Start A NEw Discussion</string>
+
+
+</resources>
